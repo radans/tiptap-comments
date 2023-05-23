@@ -1,6 +1,6 @@
 {
-  "name": "ls",
-  "version": "1.0.0",
+  "name": "@rcode-link/tiptap-comments",
+  "version": "1.0.1",
   "description": "Extension for tiptap editor",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,6 @@
     "@tiptap/core": "^2.0.3",
     "lodash": "^4.17.21",
     "uuid": "^9.0.0"
-  }
+  },
+  "devDependencies": {}
 }
