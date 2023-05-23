@@ -108,3 +108,8 @@ editor.storage.comment
 TODO:
 
 * update comment
+
+
+# License
+
+The MIT License (MIT). Please see [License File](https://github.com/radans/tiptap-comments/blob/main/Licence.md) for more information.
