@@ -1,0 +1,29 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Extension for tiptap editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/radans/tiptap-comments.git"
+  },
+  "keywords": [
+    "tiptap",
+    "comments",
+    "extension"
+  ],
+  "author": "Radan Stupar",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/radans/tiptap-comments/issues"
+  },
+  "homepage": "https://github.com/radans/tiptap-comments#readme",
+  "dependencies": {
+    "@tiptap/core": "^2.0.3",
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  }
+}
